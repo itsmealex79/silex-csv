@@ -1,6 +1,6 @@
 {
   "name": "PHP Code Sample",
   "description": "A barebones PHP app that makes use of the Silex web framework",
-  "repository": "https://github.com/itsmealex79/code-sample.git",
+  "repository": "https://github.com/itsmealex79/silex-csv.git",
   "addons": []
 }
