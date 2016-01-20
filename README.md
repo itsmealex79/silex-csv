@@ -23,8 +23,8 @@ Attached is a csv file: clips.csv. Your job is to write code that will load in c
 Install the [Heroku Toolbelt](https://toolbelt.heroku.com/).
 
 ```sh
-$ git clone git@github.com:itsmealex79/code-sample.git # or clone forked itsmealex79/code-sample
-$ cd code-sample
+$ git clone git@github.com:itsmealex79/silex-csv.git # or clone forked itsmealex79/code-sample
+$ cd silex-csv
 $ heroku login
 $ heroku apps:create
 $ git push heroku master
