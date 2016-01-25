@@ -37,9 +37,3 @@ For more information about using PHP on Heroku, see these Dev Center articles:
 
 - [PHP on Heroku](https://devcenter.heroku.com/categories/php)
 
-
-## Testing
-
-You can try this out at:
-  https://serene-waters-4579.herokuapp.com/valid
-  https://serene-waters-4579.herokuapp.com/invalid
